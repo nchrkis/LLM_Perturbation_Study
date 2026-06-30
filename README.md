@@ -2,7 +2,7 @@
 
 This repository contains the reproducibility package accompanying the paper:
 
-> **Evaluating Prompt-Induced Diagnostic Instability of Large Language Models in Clinical Decision Support**
+> **Prompt-Induced Diagnostic Instability of Large Language Models in Clinical Decision Support**
 >
 > Panagiotis Tirchas, Nicholas Christakis, Dimitris Drikakis
 >
