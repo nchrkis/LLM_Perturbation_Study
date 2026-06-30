@@ -317,8 +317,7 @@ notes.
 If you use these materials, please cite:
 
 ```text
-P. Tirchas, N. Christakis, and D. Drikakis, "Evaluating Prompt-Induced
-Diagnostic Instability of Large Language Models in Clinical Decision Support,"
+P. Tirchas, N. Christakis, and D. Drikakis, "Prompt-Induced Diagnostic Instability of Large Language Models in Clinical Decision Support,"
 prepared for submission to IEEE Access.
 Citation details to be updated upon publication.
 ```
