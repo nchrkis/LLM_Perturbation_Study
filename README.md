@@ -9,7 +9,7 @@ This repository contains the reproducibility package accompanying the paper:
 > Institute for Advanced Modelling and Simulation, University of Nicosia,
 > Nicosia CY-2417, Cyprus
 >
-> Prepared for submission to *Artificial Intelligence in Medicine* (Elsevier)
+> Prepared for submission to *IEEE Access*
 
 ---
 
@@ -159,9 +159,7 @@ families A through D.
 | `B_instruction` | Information-preserving | Prepends semantically equivalent clinical instruction paraphrases. |
 | `C_json` | Information-preserving | Renders the same patient facts as JSON. |
 | `D_numeric_precision` | Near-equivalent stress perturbation | Changes numeric display precision or presentation. |
-| `Composite` | Information-preserving stress | Combines order, delimiter, and instruction changes. |
-| `F_retrieval` | Information-preserving context perturbation | Varies retrieved support cases by context depth and diversity. |
-| `G_feature_mask` to `J_missingness` | Information-altering | Deliberately degrades patient evidence for stress testing. |
+
 
 Executable perturbations live in `utils/perturbations.py`. The paper-facing
 taxonomy is in `perturbations/perturbation_definitions.json`.
@@ -319,10 +317,9 @@ notes.
 If you use these materials, please cite:
 
 ```text
-Panagiotis Tirchas, Nicholas Christakis, Dimitris Drikakis.
-Evaluating Prompt-Induced Diagnostic Instability of Large Language Models
-in Clinical Decision Support.
-Prepared for submission to Artificial Intelligence in Medicine.
+P. Tirchas, N. Christakis, and D. Drikakis, "Evaluating Prompt-Induced
+Diagnostic Instability of Large Language Models in Clinical Decision Support,"
+prepared for submission to IEEE Access.
 Citation details to be updated upon publication.
 ```
 
