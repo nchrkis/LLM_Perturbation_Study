@@ -326,5 +326,5 @@ Citation details to be updated upon publication.
 
 ## License
 
-This project is released under the **GNU General Public License v3.0 or later**.
+This project is released under the **GNU General Public License v3.0 or later**. The data files are redistributed from their original public sources (Debernardi et al., PLOS Medicine, 2020; Wisconsin Diagnostic Breast Cancer, UCI Machine Learning Repository) and remain subject to their original licences and attribution requirements. 
 See `LICENSE` for the full license text.
