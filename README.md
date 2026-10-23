@@ -64,9 +64,17 @@ are withheld from the model and used only for scoring.
 
 ## Dataset
 
-The main experiments use the public pancreatic cancer biomarker dataset from
-Debernardi et al. The model receives structured clinical variables and predicts
-a binary disease outcome, where `0` denotes no disease and `1` denotes disease.
+Source: Debernardi et al., PLOS Medicine 17(12):e1003489, 2020
+(doi:10.1371/journal.pmed.1003489), public data release.
+
+The 209 records used here are the complete cases for all seven model inputs.
+Positive class: pancreatic ductal adenocarcinoma. Negative class: healthy
+controls and benign hepatobiliary conditions. Records were split into a
+63-patient evaluation cohort and a 146-patient context bank.
+
+The sample is disease-enriched (case-control design) and does not represent
+screening prevalence: 41 positive and 22 negative evaluation patients;
+93 positive and 53 negative context-bank patients.
 
 The pancreatic prompts use seven patient features:
 
