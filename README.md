@@ -9,7 +9,7 @@ This repository contains the reproducibility package accompanying the paper:
 > Institute for Advanced Modelling and Simulation, University of Nicosia,
 > Nicosia CY-2417, Cyprus
 >
-> Prepared for submission to *IEEE Access*
+> *IEEE Access*, under review
 
 ---
 
@@ -326,7 +326,7 @@ If you use these materials, please cite:
 
 ```text
 P. Tirchas, N. Christakis, and D. Drikakis, "Prompt-Perturbation Stability of Large Language Models in Clinical Decision Support: An Evaluation Protocol and Case Study",
-prepared for submission to IEEE Access.
+IEEE Access, under review.
 Citation details to be updated upon publication.
 ```
 
